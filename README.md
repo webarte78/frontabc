@@ -1,6 +1,7 @@
-# frontabc.github.io
+Bem vindo ao grupo Front ABC!
+===================
 
-Repositório de coisas importantes do Grupo. ;)
+Esse é o repositório de coisas importantes do Grupo. ;)
 
 ###Links
 
