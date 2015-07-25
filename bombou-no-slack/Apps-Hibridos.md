@@ -1,0 +1,4 @@
+- [Cordova](https://cordova.apache.org/)
+- [Ionic](http://ionicframework.com/)
+- [Phonegap](http://phonegap.com/)
+- [Meteor](https://www.meteor.com/tutorials/angular/creating-an-app)

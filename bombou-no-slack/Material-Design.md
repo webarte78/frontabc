@@ -1,0 +1,7 @@
+- [Sass Variables for Material Design's Colour Palette](http://www.himpfen.com/sass-variables-material-design/)
+- [HTML Material Design Template](http://www.himpfen.com/html-material-design-template/)
+- [Anotações sobre Material Design do Google](http://tableless.com.br/anotacoes-sobre-material-design-google/)
+- [Material Design Lite: O framework do Google](http://tableless.com.br/material-design-lite-o-framework-google/)
+- [MaterialUp – Uma coleção de conceitos usando Material Design](http://tableless.com.br/materialup-uma-colecao-de-conceitos-usando-material-design/)
+- [Material design - Google](https://www.google.com/design/spec/material-design/introduction.html)
+- [Material Design Lite](https://developers.google.com/web/tools/material-design-lite/)
