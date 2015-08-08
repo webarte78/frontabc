@@ -9,7 +9,7 @@ FB: http://goo.gl/n95WGf
 Email: w.oliveira542@gmail.com
 ```
 
-## Moderadores / Co-organizadores
+## Organizadores
 
 Danilo Vitoriano
 ```
@@ -23,4 +23,10 @@ Marcus Vinicius de S L Gonçalves (Marquinhus)
 Twitter: @marquinhusgonc
 FB: https://goo.gl/yiEG9e
 Email: marquinhusgoncalves@hotmail.com
+```
+
+Marcus Vinicius de S L Gonçalves (Marquinhus)
+```
+G+: https://goo.gl/8Iy93B
+Email: v.uliana@gmail.com
 ```
