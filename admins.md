@@ -25,7 +25,7 @@ FB: https://goo.gl/yiEG9e
 Email: marquinhusgoncalves@hotmail.com
 ```
 
-Marcus Vinicius de S L Gonçalves (Marquinhus)
+Felipe Uliana (Brutinhos)
 ```
 G+: https://goo.gl/8Iy93B
 Email: v.uliana@gmail.com
