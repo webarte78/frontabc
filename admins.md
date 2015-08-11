@@ -2,7 +2,7 @@
 
 ## Responsável
 
-William de Oliveira Souza
+William Oliveira Souza
 ```
 Twitter: @w_oliveiras
 FB: http://goo.gl/n95WGf
@@ -18,7 +18,7 @@ FB: https://goo.gl/hLgtuC
 Email: vitoriano08@gmail.com
 ```
 
-Marcus Vinicius de S L Gonçalves (Marquinhus)
+Marcus Vinicius (Marquinhus)
 ```
 Twitter: @marquinhusgonc
 FB: https://goo.gl/yiEG9e
