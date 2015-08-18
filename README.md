@@ -13,3 +13,8 @@ Esse é o repositório de coisas importantes do Grupo. ;)
 ### Como contribuir?
 
 Da uma olhada [aqui](https://github.com/front-abc/frontabc.github.io/blob/master/CONTRIBUTE.md)
+
+### Nossos eventos
+
+[FEMUG-ABC](https://github.com/front-abc/femug)
+[Hackathon](https://github.com/front-abc/hackathon)
