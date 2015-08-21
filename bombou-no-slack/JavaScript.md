@@ -1,1 +1,2 @@
 - [Playlist do Rodrigo Branas sobre JavaScript e AngularJS](https://www.youtube.com/user/rodrigobranas/playlists)
+- [Refatoração](http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html)
