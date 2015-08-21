@@ -1,0 +1,2 @@
+- [20 novas ferramentas HTML5 para o seu arsenal](https://codegeekz.com/20-new-html5-tools-for-your-arsenal/)
+- [Usando Jade e Grnd para agilizar o desenvolvimento](http://www.sitepoint.com/using-jade-and-grunt-to-speed-up-html-production)
