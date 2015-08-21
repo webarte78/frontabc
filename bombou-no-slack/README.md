@@ -14,3 +14,7 @@ Alguns assuntos que bombam no Slack podem virar pauta para encontros. Chega junt
 [Apps Híbridos](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Apps-Hibridos.md)
 
 [Material Design](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Material-Design.md)
+
+[CSS](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/css.md)
+
+[Front(Assuntos variados)](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Front.md)
