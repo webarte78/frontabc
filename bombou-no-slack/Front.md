@@ -1,0 +1,2 @@
+- [Usando Jade e Grnd para agilizar o desenvolvimento](http://www.sitepoint.com/using-jade-and-grunt-to-speed-up-html-production)
+- [A sindrome dos novos Frameworks](https://medium.com/@tastejs/yet-another-framework-syndrome-yafs-cf5f694ee070)
