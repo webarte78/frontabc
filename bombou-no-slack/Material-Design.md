@@ -5,3 +5,4 @@
 - [MaterialUp – Uma coleção de conceitos usando Material Design](http://tableless.com.br/materialup-uma-colecao-de-conceitos-usando-material-design/)
 - [Material design - Google](https://www.google.com/design/spec/material-design/introduction.html)
 - [Material Design Lite](https://developers.google.com/web/tools/material-design-lite/)
+- [10 recursos e tutoriais essenciais do Material Design](http://www.sitepoint.com/10-essential-material-design-resources-and-tutorials/)
