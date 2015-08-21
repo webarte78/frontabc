@@ -19,6 +19,10 @@ Alguns assuntos que bombam no Slack podem virar pauta para encontros. Chega junt
 
 [CSS](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/css.md)
 
+[JavaScript](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/JavaScript.md)
+
 [Tooling](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Tooling.md)
+
+[Nodejs](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Nodejs.md)
 
 [Front(Assuntos variados)](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Front.md)
