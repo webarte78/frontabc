@@ -17,7 +17,7 @@ Da uma olhada [aqui](https://github.com/front-abc/frontabc.github.io/blob/master
 
 [FEMUG-ABC](https://github.com/front-abc/femug-abc)
 
-[Hackathon](https://github.com/front-abc/hackathon)
+[HACKATHON](https://github.com/front-abc/hackathon)
 
 ### Quer divulgar sua vaga?
 
