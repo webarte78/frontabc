@@ -6,7 +6,7 @@ Falamos muita coisa no Slack e, quase sempre, fica difícil acompanhar ou achar 
 Alguns assuntos que bombam no Slack podem virar pauta para encontros. Chega junto! ;)
 
 - [Team](http://frontabc.slack.com)
-- [Formulário para participar](https://docs.google.com/spreadsheets/d/1bGl_w1SXOHpEekDhtY8Bdbh_YcMUzCfXNChUmRoHdWc/edit?usp=sharing)
+- [Formulário para participar](http://goo.gl/forms/qeWgCvTM4H)
 
 
 ## Assuntos que bombaram
