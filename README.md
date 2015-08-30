@@ -19,6 +19,8 @@ Da uma olhada [aqui](https://github.com/front-abc/frontabc.github.io/blob/master
 
 [HACKATHON](https://github.com/front-abc/hackathon "HACKATHON")
 
+[Dojo](https://github.com/front-abc/dojo "Dojo")
+
 ### Quer divulgar ou encontrar uma vaga na região do Grande ABC?
 
 [VAGAS](https://github.com/front-abc/frontabc.github.io/tree/master/vagas "Vagas no Grande ABC")
