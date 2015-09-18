@@ -8,6 +8,7 @@ Esse é o repositório de coisas importantes do Grupo. ;)
 - [Slack](http://goo.gl/forms/qeWgCvTM4H "Formulário para entrar no nosso team no Slack")
 - [Meetup](http://www.meetup.com/pt/front-abc/ "Grupo no Meetup")
 - [Contato dos administradores](https://github.com/front-abc/frontabc.github.io/blob/master/admins.md "Contato dos administradores do Grupo")
+- [Front ABC Ladies](https://github.com/front-abc/frontabcladies.github.io)
 
 ### Como contribuir?
 
