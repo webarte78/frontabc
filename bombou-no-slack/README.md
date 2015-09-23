@@ -11,18 +11,18 @@ Alguns assuntos que bombam no Slack podem virar pauta para encontros. Chega junt
 
 ## Assuntos que bombaram
 
-[Apps Híbridos](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Apps-Hibridos.md)
+[Apps Híbridos](https://github.com/front-abc/frontabc/blob/master/bombou-no-slack/Apps-Hibridos.md)
 
-[Material Design](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Material-Design.md)
+[Material Design](https://github.com/front-abc/frontabc/blob/master/bombou-no-slack/Material-Design.md)
 
-[Twitter Bootstrap](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Twitter-Bootstrap.md)
+[Twitter Bootstrap](https://github.com/front-abc/frontabc/blob/master/bombou-no-slack/Twitter-Bootstrap.md)
 
-[CSS](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/css.md)
+[CSS](https://github.com/front-abc/frontabc/blob/master/bombou-no-slack/css.md)
 
-[JavaScript](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/JavaScript.md)
+[JavaScript](https://github.com/front-abc/frontabc/blob/master/bombou-no-slack/JavaScript.md)
 
-[Tooling](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Tooling.md)
+[Tooling](https://github.com/front-abc/frontabc/blob/master/bombou-no-slack/Tooling.md)
 
-[Nodejs](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Nodejs.md)
+[Nodejs](https://github.com/front-abc/frontabc/blob/master/bombou-no-slack/Nodejs.md)
 
-[Front(Assuntos variados)](https://github.com/front-abc/frontabc.github.io/blob/master/bombou-no-slack/Front.md)
+[Front(Assuntos variados)](https://github.com/front-abc/frontabc/blob/master/bombou-no-slack/Front.md)
