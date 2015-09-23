@@ -24,4 +24,4 @@ Da uma olhada [aqui](https://github.com/front-abc/frontabc/blob/master/CONTRIBUT
 
 ### Quer divulgar ou encontrar uma vaga na região do Grande ABC?
 
-[VAGAS](https://github.com/front-abc/frontabc.github.io/tree/master/vagas "Vagas no Grande ABC")
+[VAGAS](https://github.com/front-abc/frontabc/tree/master/vagas "Vagas no Grande ABC")
