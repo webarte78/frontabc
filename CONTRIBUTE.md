@@ -1,7 +1,7 @@
 Como contribuir com o Grupo?
 ============================
 
-Para enviar alguma dica, sujestão ou algo do tipo, fique a vontade para abrir uma [Issue](https://github.com/front-abc/frontabc.github.io/issues).
+Para enviar alguma dica, sujestão ou algo do tipo, fique a vontade para abrir uma [Issue](https://github.com/front-abc/frontabc/issues).
 
 Para alterar algo ou corrigir coisas do repositório, faça um Fork, depois envie um Pull Request.
 
