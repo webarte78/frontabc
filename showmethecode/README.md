@@ -1,6 +1,6 @@
 #Show me the code
 
-Compartilha com a gente o que você tem feito! :D
+Compartilha com a gente o que você tem feito vai... ;D
 
 Talvez alguém queira colaborar contigo.
 
