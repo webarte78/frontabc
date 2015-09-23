@@ -1,3 +1,3 @@
 #Projects
 
-Adicione o link para seu projeto nesse arquivo ou você pode hospedar nesse repositório mesmo.
+Adicione um arquivo com seu nome de usuário do Github com o link para o seu pojeto ou, se preferr, pode usar esse repositório para versionar seu projeto. :D
