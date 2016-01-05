@@ -1,7 +1,9 @@
 #woliveiras
 
-Pastel: https://github.com/woliveiras/pastel
+**Automação de Workflow com Grunt:** https://github.com/woliveiras/pastel
 
-Maps: https://github.com/woliveiras/dojo/tree/master/maps
+**Automação de Workflow para WordPress:** https://github.com/woliveiras/wp-workflow
 
-Sort.io: https://github.com/woliveiras/dojo/tree/master/sort.io
+**Automação de Workflow com Gulp:** https://github.com/woliveiras/kibe
+
+**Site pessoal:** http://woliveiras.com.br/
