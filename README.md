@@ -5,7 +5,7 @@ Esse é o repositório de coisas importantes do Grupo. ;)
 
 ### Links
 
-- [![Slack Status](https://slackfrontabc.herokuapp.com/badge.svg)](https://slackfrontabc.herokuapp.com "Clique aqui para se cadastrar no nosso Slack")
+- [Slack](https://slackfrontabc.herokuapp.com "Clique aqui para se cadastrar no nosso Slack") ![Slack Status](https://slackfrontabc.herokuapp.com/badge.svg)
 - [Meetup](http://www.meetup.com/pt/front-abc/ "Grupo no Meetup")
 - [Contato dos administradores](https://github.com/front-abc/frontabc/blob/master/admins.md "Contato dos administradores do Grupo")
 - [Front ABC Ladies](https://github.com/front-abc/frontabcladies)
