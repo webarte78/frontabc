@@ -16,12 +16,8 @@ Da uma olhada [aqui](https://github.com/front-abc/frontabc/blob/master/CONTRIBUT
 
 ### Nossos eventos
 
-[FEMUG-ABC](https://github.com/front-abc/femug-abc "FEMUG-ABC")
+[FEMUG-ABC](http://abc.femug.com "FEMUG-ABC")
 
 [HACKATHON](https://github.com/front-abc/hackathon "HACKATHON")
 
 [Dojo](https://github.com/front-abc/dojo "Dojo")
-
-### Quer divulgar ou encontrar uma vaga na região do Grande ABC?
-
-[VAGAS](https://github.com/front-abc/frontabc/tree/master/vagas "Vagas no Grande ABC")
